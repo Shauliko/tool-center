@@ -4,7 +4,7 @@
   "tool": {
     "name": "CRA Label SBOM Generator",
     "publisher": "CRA Label",
-    "description": "Free web-based SBOM generator: drop a manifest or lockfile (npm, PyPI, Go, Cargo, Maven, RubyGems, Composer) and get CycloneDX 1.6 and SPDX 2.3 SBOMs with package-URLs, plus an ML-DSA-65-signed attestation and a public verifier. No signup; files are processed in memory and not stored.",
+    "description": "Free web-based SBOM generator: drop a manifest or lockfile (npm, PyPI, Go, Cargo, Maven, RubyGems, Composer) and get CycloneDX 1.6 and SPDX 2.3 SBOMs with package-URLs, plus an ML-DSA-65-signed attestation and verifier. No signup, nothing stored.",
     "website_url": "https://cralabel.com/sbom.html",
     "capabilities": [
       "SBOM"
